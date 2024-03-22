@@ -1,0 +1,16 @@
+.navbar .navbar-brand img{
+   height: 75px;
+}
+.navbar-nav .nav-item a{
+    text-decoration: none;
+    font-size: 25px;
+    margin: 0 20px;
+    text-transform: uppercase;
+    color: aliceblue;
+} 
+.navbar-nav .nav-item a.active{
+    color: rgb(227, 187, 222);
+    font-style: italic;
+    font-weight: 900;
+    text-shadow: 05px 5px 5px black;
+}
